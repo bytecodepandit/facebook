@@ -2,9 +2,9 @@ class FacebookGroupPostData {
   static const list = [{
     "id": "1",
     "groupName": "School Life V/s College Life",
-    "postContent": "https://www.w3schools.com/tags/movie.mp4",
+    "postContent": "http://192.168.100.7:4100/assets/posts/post-5.jpeg",
     "contentDescription": "Hey guys, it’s time to fight hair fall with the best. Mamaearth Onion Oil controls hair fall like a pro and makes hair strong & healthy. ",
-    "mainContentType": "VIDEO",
+    "mainContentType": "IMAGE",
     "postType": "FACEBOOK_GROUP_POST",
     "postTimeLong": "4 hrs",
     "user": {
